@@ -1,0 +1,33 @@
+/* header {
+    display: flex;
+    min-height: 10vh;
+    flex-direction: column;
+    background-color: cyan;
+    padding: 0;
+    color: black;
+    align-self: start;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    justify-content: flex-start;
+    columns: 1 6 1 1;
+    font-size: 5vmin;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.card {
+    border: 3px solid black;
+    gap: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-title {
+    font-size: 4vmin;
+} */
